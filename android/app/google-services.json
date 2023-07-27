@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500909280066",
+    "project_id": "muncheze-3b141",
+    "storage_bucket": "muncheze-3b141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500909280066:android:0ec327aaf9c7ba343b96db",
+        "android_client_info": {
+          "package_name": "interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500909280066-jue1s8r7bgqfftahumpp4v35920ruh8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqqghR7zWYwOGaRsO1QW0f1LRAhb23lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500909280066-jue1s8r7bgqfftahumpp4v35920ruh8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
